@@ -22,20 +22,6 @@ This project is a modular and object-oriented implementation of cubic equations 
 
 ---
 
-## Project Structure
-'''
-├── Makefile                  # Build automation file
-├── README.md                 # Project documentation
-├── EOSBase.h                 # Base class header
-├── PengRobinson.h            # Peng-Robinson header
-├── PengRobinson.cpp          # Peng-Robinson implementation
-├── SRK.h                     # Soave-Redlich-Kwong header
-├── SRK.cpp                   # Soave-Redlich-Kwong implementation
-├── main.cpp                  # Main program file
-'''
-
----
-
 ## Installation
 1. Clone the repository:
    ```bash
